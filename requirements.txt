@@ -1,0 +1,9 @@
+
+tensorflow-intel==2.13.0
+protobuf==3.20.3
+mlflow
+mysql-connector-python
+numpy
+pandas
+opencv-python>=3.4.2.17
+gym
